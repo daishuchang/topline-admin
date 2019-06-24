@@ -1,18 +1,17 @@
 <template>
-  <div id="app">
-    <router-view/>
+  <div>
+    <p>这这这个是登录页面</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
+  name: 'AppLogin',
   data () {
     return {}
   }
 }
 </script>
 
-<style lang="less">
-
+<style lang="less" scoped>
 </style>
