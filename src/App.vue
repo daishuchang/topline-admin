@@ -16,7 +16,8 @@ export default {
 <style lang="less">
 #app {
   height: 100%;
-  background: url("./assets/粉末.jpg") no-repeat;
+  // background: url("./assets/粉末.jpg") no-repeat;
+  background-color: #283e4a;
   background-size: 100%;
 }
 </style>
